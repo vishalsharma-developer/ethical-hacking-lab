@@ -1,0 +1,38 @@
+# InstaAuditX 🔍
+
+**InstaAuditX** is a fast, Python-powered GUI tool that audits Instagram profiles and helps identify why your content isn't going viral.
+
+## 🚀 Features
+- Real-time profile scan using Instaloader
+- Followers, posts, and bio analysis
+- Viral growth checklist
+- Lightweight Tkinter GUI
+
+## 📦 Requirements
+- Python 3.8+
+- Instaloader
+- Tkinter (comes pre-installed)
+
+Create a 'requirememnts.txt'file with :instaloader
+Install dependencies: pip install instaloader 
+
+## 🖥️ How to Run
+python insta_audit_gui.py
+
+## 📊 Viral Audit Checklist
+- Reels frequency: 3–5/week
+- Caption length: <150 characters
+- Hashtag usage: 5–10 niche tags
+- Hook strength: First 2 sec of Reels
+- CTA presence: Ask viewers to comment/share
+
+## 🧠 Built For
+- Ethical hackers exploring social media analytics
+- Freelancers optimizing client Instagram pages
+- Creators seeking viral growth insights
+
+## 📸 Screenshot
+![InstaAuditX GUI](assets/banner.png)
+
+## 🔐 License
+This project is licensed under the MIT License.
